@@ -36,15 +36,6 @@
       "serve": "cold",
       "id": "coke/pepsi",
       "userAdd": true
-    },
-    {
-      "type": "drink",
-      "name": "Water",
-      "description": "n/a",
-      "recipe": "n/a",
-      "serve": "cold",
-      "id": "water",
-      "userAdd": true
     }
   ],
   "snacks": [
@@ -71,11 +62,11 @@
     },
     {
       "type": "snack",
-      "name": "Chocolate Bar",
-      "description": "n/a",
-      "recipe": "n/a",
-      "serve": "n/a",
-      "id": "chocolate-bar",
+      "name": "Pizza",
+      "description": "Delicious",
+      "recipe": "just eat",
+      "serve": "hot ",
+      "id": "pizza",
       "userAdd": true
     }
   ]

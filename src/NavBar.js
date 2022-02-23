@@ -8,18 +8,18 @@ function NavBar() {
 		<div>
 			<Navbar expand="md">
 				<NavLink exact to="/" className="navbar-brand">
-					Snack or Booze
+					JP. Morgan Chase Hackathon
 				</NavLink>
 
 				<Nav className="ml-auto" navbar>
 					<NavItem>
-						<NavLink to="/snacks">Snacks</NavLink>
+						<NavLink to="/snacks">Solutions</NavLink>
 					</NavItem>
 					<NavItem>
-						<NavLink to="/drinks">Drinks</NavLink>
+						<NavLink to="/drinks">Our Tools</NavLink>
 					</NavItem>
 					<NavItem>
-						<NavLink to="/new">Add Menu Item</NavLink>
+						<NavLink to="/new">Have a Suggestion</NavLink>
 					</NavItem>
 				</Nav>
 			</Navbar>
